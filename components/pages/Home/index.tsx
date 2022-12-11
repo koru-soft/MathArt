@@ -1,10 +1,5 @@
-import dynamic from "next/dynamic";
 import p5Types from "p5";
-
-const Sketch = dynamic(() => import("react-p5"), {
-  loading: () => <></>,
-  ssr: false,
-});
+import Sketch from "../../atoms/Sketch";
 
 const MySketch = () => {
   const preload = () => {
