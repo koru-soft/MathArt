@@ -1,34 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# P5によるクリエイティブコーディング用リポジトリ
 
-## Getting Started
+例.ノイズ
+![ノイズ](public/assets/noise.png)
 
-First, run the development server:
+## MathArtとは
+数学的な考え方を適用し、表現のためのプログラムを記述する手法のこと
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### MathArtの大家
+- レオナルド・ダ・ヴィンチ
+- サルバドール・ダリ
+- マウリッツ・エッシャー
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### MathArtで用いる数学的理論とその分野
+- 基礎
+  - 黄金比
+  - フィボナッチ比
+- 幾何
+  - トポロジー
+  - タイリング
+    - フォーデンベルクのタイル
+    - ロビンソンタイリング
+    - ペンローズタイリング
+    - トルシェタイリング
+- ストリングアート
+  - 曼荼羅
+  - 螺旋
+    - アルキメデス螺旋
+    - ベルヌーイ螺旋
+    - クロソイド曲線
+  - サイクロイド
+    - エピサイクロイド
+    - ハイポサイクロイド
+  - スピログラフ
+  - トロコイド曲線
+  - リサージュ曲線
+- フラクタル
+  - シェルピンスキーのギャスケットとカーペット
+  - パスカルの三角形
+  - デラノイの三角形
+  - ドラゴン曲線
+  - リンデンマイヤーシステム
+  - ランダムウォーク
+  - レヴィのダスト
+- カオスアート
+  - クリフォードアトラクター
+  - デヨンアトラクター
+  - ホパロンアトラクター
+  - ローレンツアトラクター
+  - グモウスキーアトラクター
