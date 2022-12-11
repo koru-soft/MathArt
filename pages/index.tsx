@@ -1,10 +1,10 @@
 import type { NextPage } from "next";
-import Home from "./Home";
+import HomePage from "./home";
 
 const Index: NextPage = () => {
   return (
     <>
-      <Home />
+      <HomePage />
     </>
   );
 };
