@@ -5,6 +5,14 @@ const HomeContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 `;
 
-export default { HomeContainer };
+const LinkWrapper = styled.div`
+  &:hover {
+    cursor: pointer;
+    background-color: azure;
+  }
+`;
+
+export default { HomeContainer, LinkWrapper };

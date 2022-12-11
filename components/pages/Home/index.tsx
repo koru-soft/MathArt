@@ -4,7 +4,12 @@ import SC from "./style";
 const Home = () => {
   return (
     <SC.HomeContainer>
-      <Link href="sketches/stalker">ストーカー</Link>
+      <SC.LinkWrapper>
+        <Link href="sketches/stalker">ストーカー</Link>
+      </SC.LinkWrapper>
+      <SC.LinkWrapper>
+        <Link href="sketches/noise">ノイズ</Link>
+      </SC.LinkWrapper>
     </SC.HomeContainer>
   );
 };
