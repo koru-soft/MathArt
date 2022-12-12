@@ -10,6 +10,9 @@ const Home = () => {
       <SC.LinkWrapper>
         <Link href="sketches/noise">ノイズ</Link>
       </SC.LinkWrapper>
+      <SC.LinkWrapper>
+        <Link href="sketches/brushes/normal">ブラシ</Link>
+      </SC.LinkWrapper>
     </SC.HomeContainer>
   );
 };
